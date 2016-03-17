@@ -12,9 +12,9 @@ $(call inherit-product, device/zte/atlas40/atlas40.mk)
 PRODUCT_DEVICE := atlas40
 PRODUCT_NAME := cm_atlas40
 PRODUCT_BRAND := ZTE
-PRODUCT_MODEL := Blade III
+PRODUCT_MODEL := V880E Dual SIM
 PRODUCT_MANUFACTURER := ZTE
-PRODUCT_RELEASE_NAME := Blade III
+PRODUCT_RELEASE_NAME := V880E Dual SIM
 
 # Set build fingerprint / ID / Product Name ect.
 PRODUCT_BUILD_PROP_OVERRIDES += \
