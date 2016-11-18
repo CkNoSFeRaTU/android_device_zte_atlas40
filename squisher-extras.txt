@@ -1,6 +1,6 @@
 # CM apps
-app/CMWallpapers.apk
-priv-app/CMUpdater.apk
+# app/CMWallpapers.apk
+# priv-app/CMUpdater.apk
 
 # Camera effects
 media/LMprec_508.emd
@@ -15,12 +15,12 @@ lib/crtend_so.o
 media/audio/ringtones/Sheep.mp3
 
 # Recovery
-bin/applypatch
-bin/applypatch_static
-bin/check_prereq
-bin/recovery
-bin/updater
-etc/recovery-resource.dat
+# bin/applypatch
+# bin/applypatch_static
+# bin/check_prereq
+# bin/recovery
+# bin/updater
+# etc/recovery-resource.dat
 
 # SELinux
 bin/auditd

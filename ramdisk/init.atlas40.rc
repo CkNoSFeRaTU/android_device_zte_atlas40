@@ -198,7 +198,7 @@ service fm_dl /system/bin/sh /system/etc/init.qcom.fm.sh
     disabled
     oneshot
 
-service proximity_init /system/bin/proximity.init -r
+service proximity_init /system/bin/taoscal
     class late_start
     disabled
     oneshot

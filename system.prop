@@ -52,3 +52,7 @@ persist.webview.provider=classic
 # Wifi
 wifi.interface=wlan0
 wifi.supplicant_scan_interval=60
+wifi.idle_ms=300000
+
+# Update
+cm.updater.uri=https://nosferatu.g0x.ru/cm_api/

@@ -52,6 +52,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libwebcore
 
+# Torch
+#PRODUCT_PACKAGES += \
+#    Torch
+
+# Proximity Sensor
+PRODUCT_PACKAGES += \
+    taoscal
+
 # Ramdisk
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,device/zte/atlas40/ramdisk,root)
